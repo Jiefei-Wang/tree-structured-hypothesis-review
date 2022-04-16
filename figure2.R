@@ -1,4 +1,4 @@
-library(cherry)
+library(BOUTH)
 source("functions.R")
 
 ## Create the taxonomy tree
